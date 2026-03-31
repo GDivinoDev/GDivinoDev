@@ -34,7 +34,7 @@
 
 ### 📬 Vamos nos conectar?
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINK_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-lima-100a56274/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
