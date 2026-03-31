@@ -1,16 +1,11 @@
 # Olá, eu sou o Guilherme! 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GDivinoDev&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mim
 - 🎓 Formado em **ADS (UNIP)** e cursando **Sistemas de Informação (IFSP)**.
 - 🚀 Desenvolvedor focado no ecossistema **.NET (C#)**.
-- 🛠️ Criador do projeto **TIHelp**, uma solução Fullstack com integração de IA.
+- 🛠️ Um dos criadores do projeto **TIHelp**, uma solução Fullstack com integração de IA.
 - 🎯 Buscando transição total para a área de desenvolvimento.
 
 ---
