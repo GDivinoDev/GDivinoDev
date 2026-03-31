@@ -20,10 +20,6 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
----
-
-### 📊 Estatísticas
-![Snake animation](https://github-community.github.io/github-snake/github-contribution-grid-snake.svg)
 
 ---
 
